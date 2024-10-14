@@ -1,7 +1,5 @@
 ## Conversor de Moedas - Alura Challenges 
 
-![Badge-Conversor.png](src\main\resources\badge\Badge-Conversor.png)
-
 Este projeto é um conversor de moedas desenvolvido em Java, utilizando a API pública de taxas de câmbio ExchangeRate-API. O conversor permite que os usuários façam conversões entre diferentes moedas e exibe um histórico de conversões realizadas.
 
 ### Funcionalidades

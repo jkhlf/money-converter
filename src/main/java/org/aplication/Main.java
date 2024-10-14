@@ -9,8 +9,8 @@ public class Main {
         ConversorService conversorService = new ConversorService();
 
         while (true) {
-            System.out.println("*****************************************");
-            System.out.println("Seja bem-vindo/a ao Conversor de Moeda =]");
+            System.out.println("*************************************");
+            System.out.println("Conversor de Moedas");
             System.out.println("1) Dólar => Peso argentino");
             System.out.println("2) Peso argentino => Dólar");
             System.out.println("3) Dólar => Real brasileiro");
@@ -24,7 +24,7 @@ public class Main {
             System.out.println("11) Exibir histórico de conversões");
             System.out.println("12) Sair");
             System.out.println("Escolha uma opção válida:");
-            System.out.println("*****************************************");
+            System.out.println("************************************");
 
             int opcao = scanner.nextInt();
 
